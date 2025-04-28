@@ -117,6 +117,7 @@ Please follow the instructions as follows to prepare all datasets. Datasets list
 - [Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view?pli=1&resourcekey=0-2SNWq0CDAuWOBRRBL7ZZsw)
 - [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/#datasets_code)
 - [VisDA-2017](http://ai.bu.edu/visda-2017/#download)
+- [DomainNet](http://ai.bu.edu/M3SDA/)
 
 ------
 
