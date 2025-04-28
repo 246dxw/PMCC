@@ -1,0 +1,39 @@
+
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 a-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 a-p 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 a-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 c-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 c-p 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 c-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 p-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 p-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 p-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 r-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 r-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 5 r-p 1
+
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 a-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 a-p 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 a-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 c-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 c-p 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 c-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 p-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 p-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 p-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 r-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 r-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 7 r-p 1
+
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 a-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 a-p 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 a-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 c-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 c-p 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 c-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 p-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 p-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 p-r 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 r-a 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 r-c 1
+bash scripts/pda/main_pda.sh officehome b32_ep10_officehome PDA ViT-B/16 9 r-p 1

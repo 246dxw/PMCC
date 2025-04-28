@@ -1,0 +1,12 @@
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 a-c 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 a-p 0
+bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 a-r 0
+bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 c-a 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 c-p 0
+bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 c-r 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 p-a 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 p-c 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 p-r 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 r-a 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 r-c 0
+#bash scripts/clip/eval_clip.sh officehome b32_ep10_officehome CLIP_ZS ViT-B/16 r-p 0
